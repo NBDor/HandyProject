@@ -1,3 +1,3 @@
 # HandyProject
  
- ![POSTER!](POSTER/Handy Poster.png)
+ ![POSTER!](POSTER/HandyPoster.png)
